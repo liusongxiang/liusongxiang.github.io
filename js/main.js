@@ -130,7 +130,16 @@ var main = {
 	} else {
 	  $(".img-desc").hide();  
 	}
-  }
+  },
+	
+  var _hmt = _hmt || [];
+  (function() {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?d95362163521047da0cfa405eb1d4df5";
+    var s = document.getElementsByTagName("script")[0]; 
+    s.parentNode.insertBefore(hm, s);
+  })();
+
 };
 
 // 2fc73a3a967e97599c9763d05e564189
