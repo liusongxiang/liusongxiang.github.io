@@ -10,7 +10,7 @@
 - Teaching assistant of CUHK SEEM2460 Introduction to Data Science (2017-2021) (Prof. Helen Meng).
 
 # 💻 Internship
--  Tencent AI Lab (09/2019-12/2020): Research Intern, conducting research on singing voice conversion \& synthesis, accent conversion and voice conversion, advised by Dr. Shiying Kang.
+-  Tencent AI Lab (09/2019-12/2020): Research Intern, conducting research on singing voice conversion \& synthesis, accent conversion and voice conversion, advised by [Dr. Shiying Kang](https://scholar.google.com/citations?user=mnCHk8EAAAAJ&hl=en).
 
 
 # 💬 Professional Services
