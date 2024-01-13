@@ -1,9 +1,4 @@
-# project
-_site
-.sass-cache
-.vagrant
-
-# general
+_site/
+push.sh
 .DS_Store
-Thumbs.db
-ehthumbs.db
+/github_myprofile_updater/README.md
