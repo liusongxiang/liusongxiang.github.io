@@ -24,7 +24,7 @@
 
 - <ins>**Songxiang Liu**</ins>, Shan Yang, Dan Su, Dong Yu, Referee: towards reference-free cross-speaker style transfer with low-quality data for expressive speech synthesis, IEEE ICASSP 2022.
 
-- <ins>**Songxiang Liu**</ins>*, Yuewen Cao, Dan Su, Helen Meng, DiffSVC: A Diffusion Probabilistic Model for Singing Voice Conversion, IEEE ASRU 2021.
+- <ins>**Songxiang Liu**</ins>\*, Yuewen Cao\*, Dan Su, Helen Meng, DiffSVC: A Diffusion Probabilistic Model for Singing Voice Conversion, IEEE ASRU 2021.
 
 - <ins>**Songxiang Liu**</ins>, Yuewen Cao, Na Hu, Dan Su, Helen Meng, FastSVC: Fast Cross-Domain Singing Voice Conversion with Feature-wise Linear Modulation, IEEE ICME 2021 (oral).
 
@@ -32,7 +32,7 @@
 
 - <ins>**Songxiang Liu**</ins>, Disong Wang, Yuewen Cao, Lifa Sun, Xixin Wu, Shiyin Kang, Zhiyong Wu, Xunying Liu, Dan Su, Dong Yu, Helen Meng, “End-to-End Accent Conversion Without Using Native Utterances, IEEE ICASSP 2020.
 
-- <ins>**Songxiang Liu**</ins>*, Haibin Wu*, Helen Meng, Hung-yi Lee, Defense against adversarial attacks on spoofing countermeasures of ASV”, IEEE ICASSP 2020.
+- Haibin Wu\*, <ins>**Songxiang Liu**</ins>\*, Helen Meng, Hung-yi Lee, Defense against adversarial attacks on spoofing countermeasures of ASV”, IEEE ICASSP 2020.
 
 - <ins>**Songxiang Liu**</ins>, Haibin Wu, Hung-yi Lee, Helen Meng, Adversarial attacks on spoofing countermeasures of automatic speaker verification, IEEE ASRU 2019.
 
@@ -47,9 +47,9 @@
 
 - Dongchao Yang, Jinchuan Tian, Xu Tan, Rongjie Huang, <ins>**Songxiang Liu**</ins>, Xuankai Chang, Jiatong Shi, Sheng Zhao, Jiang Bian, Xixin Wu, Zhou Zhao, Helen Meng, UniAudio: An Audio Foundation Model Toward Universal Audio Generation, In review for ICLR 2024.
 
-- Dongchao Yang*, <ins>**Songxiang Liu**</ins>*, Rongjie Huang, Chao Weng, Helen Meng, InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt, arXiv:2301.13662, in submission to IEEE/ACM Transactions on Audio Speech and Language Processing, 2023.
+- Dongchao Yang\*, <ins>**Songxiang Liu**</ins>\*, Rongjie Huang, Chao Weng, Helen Meng, InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt, arXiv:2301.13662, in submission to IEEE/ACM Transactions on Audio Speech and Language Processing, 2023.
 
-- Dongchao Yang*, <ins>**Songxiang Liu**</ins>*, Rongjie Huang*, Jinchuan Tian, Chao Weng, Yuexian Zou, Hifi-codec: Group-residual vector quantization for high fidelity audio codec, arXiv preprint arXiv:2305.02765. 2023.
+- Dongchao Yang\*, <ins>**Songxiang Liu**</ins>*, Rongjie Huang\*, Jinchuan Tian, Chao Weng, Yuexian Zou, Hifi-codec: Group-residual vector quantization for high fidelity audio codec, arXiv preprint arXiv:2305.02765. 2023.
 
 - <ins>**Songxiang Liu**</ins>, Dan Su, Dong Yu, Meta-Voice: Fast few-shot style transfer for expressive voice cloning using meta learning, Tech. report, 2021.
 
