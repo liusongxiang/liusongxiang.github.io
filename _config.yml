@@ -21,9 +21,9 @@ google_scholar_stats_use_cdn : true
 
 # Site Author
 author:
-  name             : "Songxiang Liu (刘颂湘)"
+  name             : "Songxiang Liu \n(刘颂湘)"
   avatar           : "images/me2023.png"
-  bio              : "Ph.D. from CUHK"
+  bio              : "Formerly a senior researcher in Tencent AI Lab"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
