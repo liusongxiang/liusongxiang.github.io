@@ -21,29 +21,32 @@
 
 \* indicates equal contributions.
 
-- Xiang Li, <ins>**Songxiang Liu**</ins>, Max W. Y. Lam, Zhiyong Wu, Chao Weng, Helen Meng, Diverse and Expressive Speech Prosody Prediction with Denoising Diffusion Probabilistic Model, Proceedings of Interspeech 2023 (**the ISCA Best Student Paper Award**).
+- Xiang Li, <ins>**Songxiang Liu**</ins>, Max W. Y. Lam, Zhiyong Wu, Chao Weng, Helen Meng, Diverse and Expressive Speech Prosody Prediction with Denoising Diffusion Probabilistic Model, ISCA Proceedings of Interspeech 2023 (**The ISCA Best Student Paper Award**).
 
 - Sipan Li, <ins>**Songxiang Liu**</ins>, Luwen Zhang, Xiang Li, Yanyao Bian, Chao Weng, Zhiyong Wu, Helen Meng, SnakeGAN: A Universal Vocoder Leveraging DDSP Prior Knowledge and Periodic Inductive Bias, 2023 IEEE International Conference on Multimedia and Expo (ICME), 1703-1708.
 
-- <ins>**Songxiang Liu**</ins>, Dan Su, Dong Yu, DiffGAN-TTS: High-Fidelity and Efficient Text-to-Speech with Denoising Diffusion GANs, ICML 2022 Workshop on Machine Learning for Audio Synthesis.
+- <ins>**Songxiang Liu**</ins>, Dan Su, Dong Yu, DiffGAN-TTS: High-Fidelity and Efficient Text-to-Speech with Denoising Diffusion GANs, 2022 International Conference on Machine Learning (ICML) Workshop on Machine Learning for Audio Synthesis.
 
-- <ins>**Songxiang Liu**</ins>, Shan Yang, Dan Su, Dong Yu, Referee: towards reference-free cross-speaker style transfer with low-quality data for expressive speech synthesis, IEEE ICASSP 2022.
+- <ins>**Songxiang Liu**</ins>, Shan Yang, Dan Su, Dong Yu, Referee: towards reference-free cross-speaker style transfer with low-quality data for expressive speech synthesis, IEEE International Conference on Acoustics, Speech and Signal Processing
+ (ICASSP) 2022.
 
 - <ins>**Songxiang Liu**</ins>\*, Yuewen Cao\*, Dan Su, Helen Meng, DiffSVC: A Diffusion Probabilistic Model for Singing Voice Conversion, IEEE ASRU 2021.
 
-- <ins>**Songxiang Liu**</ins>, Yuewen Cao, Na Hu, Dan Su, Helen Meng, FastSVC: Fast Cross-Domain Singing Voice Conversion with Feature-wise Linear Modulation, IEEE ICME 2021 (oral).
+- <ins>**Songxiang Liu**</ins>, Yuewen Cao, Na Hu, Dan Su, Helen Meng, FastSVC: Fast Cross-Domain Singing Voice Conversion with Feature-wise Linear Modulation, 2021 IEEE International Conference on Multimedia and Expo (ICME), pp. 1-6, doi: 10.1109/ICME51207.2021.9428161. (**oral**)
 
 - <ins>**Songxiang Liu**</ins>, Yuewen Cao, Shiyin Kang, Na Hu, Xunying Liu, Dan Su, Dong Yu, Helen Meng, Transferring Source Style in Non-Parallel Voice Conversion, ISCA INTERSPEECH 2020.
 
-- <ins>**Songxiang Liu**</ins>, Disong Wang, Yuewen Cao, Lifa Sun, Xixin Wu, Shiyin Kang, Zhiyong Wu, Xunying Liu, Dan Su, Dong Yu, Helen Meng, “End-to-End Accent Conversion Without Using Native Utterances, IEEE ICASSP 2020.
+- <ins>**Songxiang Liu**</ins>, Disong Wang, Yuewen Cao, Lifa Sun, Xixin Wu, Shiyin Kang, Zhiyong Wu, Xunying Liu, Dan Su, Dong Yu, Helen Meng, “End-to-End Accent Conversion Without Using Native Utterances, IEEE International Conference on Acoustics, Speech and Signal Processing
+ (ICASSP) 2020.
 
-- Haibin Wu\*, <ins>**Songxiang Liu**</ins>\*, Helen Meng, Hung-yi Lee, Defense against adversarial attacks on spoofing countermeasures of ASV”, IEEE ICASSP 2020.
+- Haibin Wu\*, <ins>**Songxiang Liu**</ins>\*, Helen Meng, Hung-yi Lee, Defense against adversarial attacks on spoofing countermeasures of ASV”, IEEE International Conference on Acoustics, Speech and Signal Processing
+(ICASSP) 2020.
 
 - <ins>**Songxiang Liu**</ins>, Haibin Wu, Hung-yi Lee, Helen Meng, Adversarial attacks on spoofing countermeasures of automatic speaker verification, IEEE ASRU 2019.
 
-- <ins>**Songxiang Liu**</ins>, Yuewen Cao, Xixin Wu, Lifa Sun, Xunying Liu, Helen Meng, Jointly Trained Conversion Model and WaveNet Vocoder for Non-Parallel Voice Conversion Using Mel-Spectrograms and Phonetic Posteriorgrams, ISCA INTERSPEECH 2019.
+- <ins>**Songxiang Liu**</ins>, Yuewen Cao, Xixin Wu, Lifa Sun, Xunying Liu, Helen Meng, Jointly Trained Conversion Model and WaveNet Vocoder for Non-Parallel Voice Conversion Using Mel-Spectrograms and Phonetic Posteriorgrams, ISCA Proceedings of Interspeech 2019.
 
-- <ins>**Songxiang Liu**</ins>, Jinghua Zhong, Lifa Sun, Xixin Wu, Xunying Liu, Helen Meng, Voice Conversion Across Arbitrary Speakers Based on a Single Target-Speaker Utterance, INTERSPEECH 2018.
+- <ins>**Songxiang Liu**</ins>, Jinghua Zhong, Lifa Sun, Xixin Wu, Xunying Liu, Helen Meng, Voice Conversion Across Arbitrary Speakers Based on a Single Target-Speaker Utterance, ISCA Proceedings of Interspeech 2018. (**oral**)
 
 - <ins>**Songxiang Liu**</ins>, Lifa Sun, Xixin Wu, Xunying Liu, Helen Meng, The HCCL-CUHK System for the Voice Conversion Challenge 2018, ISCA Speech Odyssey 2018.
 
