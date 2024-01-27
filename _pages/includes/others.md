@@ -1,8 +1,8 @@
 
 # 📖 Educations
-- *2017.09 - 2021.09*: Ph.D., in Human-Computer Communications Laboratory (HCCL), The Chinese University of Hong Kong, Hong Kong.
+- *2017.09 - 2021.09*: Ph.D., Human-Computer Communications Laboratory (HCCL), The Chinese University of Hong Kong, Hong Kong.
 
-- *2012.09 - 2016.06*: Zhejiang University, Hang Zhou, China.
+- *2012.09 - 2016.06*: B.Eng in Automation, Zhejiang University, Hang Zhou, China.
 
 # 💬 Teaching
 - Teaching assistant of CUHK SEEM3680\&SEEM4680 Technology Consulting and Analytics in Practice (2017-2021) (Prof. Helen Meng).
