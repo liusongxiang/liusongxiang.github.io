@@ -6,6 +6,11 @@
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 ## Journal Papers
+
+\* indicates equal contributions.
+
+- Dongchao Yang\*, <ins>**Songxiang Liu**</ins>\*, Rongjie Huang, Chao Weng, Helen Meng, InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt, arXiv:2301.13662, in submission to IEEE/ACM Transactions on Audio Speech and Language Processing, 2024. (**Correspondence author**)
+
 - <ins>**Songxiang Liu**</ins>, Yuewen Cao, Disong Wang, Xixin Wu, Xunying Liu, Helen Meng, Any-to-Many Voice Conversion With Location-Relative Sequence-to-Sequence Modeling, in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 29, pp. 1717-1728, 2021.
 
 - Xixin Wu, Yuewen Cao, Hui Lu, <ins>**Songxiang Liu**</ins>, Shiyin Kang, Zhiyong Wu, Xunying Liu, Helen Meng, Exemplar-Based Emotive Speech Synthesis, in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 29, pp. 874-886, 2021.
@@ -45,9 +50,7 @@
 ## Selected Preprints and Technical Reports
 \* indicates equal contributions.
 
-- Dongchao Yang, Jinchuan Tian, Xu Tan, Rongjie Huang, <ins>**Songxiang Liu**</ins>, Xuankai Chang, Jiatong Shi, Sheng Zhao, Jiang Bian, Xixin Wu, Zhou Zhao, Helen Meng, UniAudio: An Audio Foundation Model Toward Universal Audio Generation, In review for ICLR 2024.
-
-- Dongchao Yang\*, <ins>**Songxiang Liu**</ins>\*, Rongjie Huang, Chao Weng, Helen Meng, InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt, arXiv:2301.13662, in submission to IEEE/ACM Transactions on Audio Speech and Language Processing, 2023.
+- Dongchao Yang, Jinchuan Tian, Xu Tan, Rongjie Huang, <ins>**Songxiang Liu**</ins>, Xuankai Chang, Jiatong Shi, Sheng Zhao, Jiang Bian, Xixin Wu, Zhou Zhao, Helen Meng, UniAudio: An Audio Foundation Model Toward Universal Audio Generation, in submission.
 
 - Dongchao Yang\*, <ins>**Songxiang Liu**</ins>*, Rongjie Huang\*, Jinchuan Tian, Chao Weng, Yuexian Zou, Hifi-codec: Group-residual vector quantization for high fidelity audio codec, arXiv preprint arXiv:2305.02765. 2023.
 
