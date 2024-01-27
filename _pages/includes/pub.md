@@ -1,5 +1,5 @@
 
-# 📝 Selected Publications 
+# 📝 Selected Publications ([Full list](https://scholar.google.com.hk/citations?user=4fD1l28AAAAJ&hl=en))
 <!-- ## 🎙 Speech Synthesis -->
 
 
