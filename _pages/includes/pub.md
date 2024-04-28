@@ -9,7 +9,7 @@
 
 \* indicates equal contributions.
 
-- Dongchao Yang\*, <ins>**Songxiang Liu**</ins>\*, Rongjie Huang, Chao Weng, Helen Meng, InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt, arXiv:2301.13662, in submission to IEEE/ACM Transactions on Audio Speech and Language Processing, 2024. (**Correspondence author**)
+- Dongchao Yang\*, <ins>**Songxiang Liu**</ins>\*, Rongjie Huang, Chao Weng, Helen Meng, InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt, arXiv:2301.13662, accepted by IEEE/ACM Transactions on Audio Speech and Language Processing, 2024. (**Correspondence author**)
 
 - <ins>**Songxiang Liu**</ins>, Yuewen Cao, Disong Wang, Xixin Wu, Xunying Liu, Helen Meng, Any-to-Many Voice Conversion With Location-Relative Sequence-to-Sequence Modeling, in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 29, pp. 1717-1728, 2021.
 
