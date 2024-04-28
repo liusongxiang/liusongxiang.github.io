@@ -1,5 +1,6 @@
 # News
 
+- 2024.04: The paper of "InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt" is accepted by IEEE/ACM Transactions on Audio Speech and Language Processing.
 - 2023.02: Our new work on prompt-based expressive TTS -- "InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt" is available [[Demo]](https://dongchaoyang.top/InstructTTS/)[[arXiv]](https://arxiv.org/abs/2301.13662).
 
 - 2022.02: Paper introducing DiffGAN-TTS is available from [[arXiv]](https://arxiv.org/abs/2201.11972). 
