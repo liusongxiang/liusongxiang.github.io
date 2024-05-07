@@ -21,6 +21,8 @@
 
 \* indicates equal contributions.
 
+- Dongchao Yang, Jinchuan Tian, Xu Tan, Rongjie Huang, <ins>**Songxiang Liu**</ins>, Haohan Guo, Xuankai Chang, Jiatong Shi, Sheng Zhao, Jiang Bian, Zhou Zhao, Xixin Wu, Helen Meng, UniAudio: Towards Universal Audio Generation with Large Language Models, ICML 2024.
+
 - Xiang Li, <ins>**Songxiang Liu**</ins>, Max W. Y. Lam, Zhiyong Wu, Chao Weng, Helen Meng, Diverse and Expressive Speech Prosody Prediction with Denoising Diffusion Probabilistic Model, ISCA Proceedings of Interspeech 2023 (**The ISCA Best Student Paper Award**).
 
 - Sipan Li, <ins>**Songxiang Liu**</ins>, Luwen Zhang, Xiang Li, Yanyao Bian, Chao Weng, Zhiyong Wu, Helen Meng, SnakeGAN: A Universal Vocoder Leveraging DDSP Prior Knowledge and Periodic Inductive Bias, 2023 IEEE International Conference on Multimedia and Expo (ICME), 1703-1708.
@@ -52,8 +54,6 @@
 
 ## Selected Preprints and Technical Reports
 \* indicates equal contributions.
-
-- Dongchao Yang, Jinchuan Tian, Xu Tan, Rongjie Huang, <ins>**Songxiang Liu**</ins>, Xuankai Chang, Jiatong Shi, Sheng Zhao, Jiang Bian, Xixin Wu, Zhou Zhao, Helen Meng, UniAudio: An Audio Foundation Model Toward Universal Audio Generation, in submission.
 
 - Dongchao Yang\*, <ins>**Songxiang Liu**</ins>*, Rongjie Huang\*, Jinchuan Tian, Chao Weng, Yuexian Zou, Hifi-codec: Group-residual vector quantization for high fidelity audio codec, arXiv preprint arXiv:2305.02765. 2023.
 
