@@ -9,4 +9,4 @@ My research interests encompass the extensive domain of Multi/Omni-Modal LLM, sp
 Tencent AI Lab -> miHoYo -> Moonshot AI (Kimi) -> Meituan
 
 
-<font color=Red >我们正在积极寻找实习生和全职研究人员，从事多模态融合及多模态实时交互算法研究，欢迎感兴趣的人联系我！</font>
+<font color=Red >我们正在积极寻找实习生和全职研究人员，从事多模态融合及多模态实时交互算法研究，欢迎感兴趣的人联系我！songxiangliu.cuhk艾特gmail.com</font>
