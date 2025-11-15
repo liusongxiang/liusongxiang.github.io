@@ -1,4 +1,5 @@
 # News
+- 2025.11: 🔥 We introduce LongCat-Flash-Omni, a **SOTA open-source omni-modal model** with 560B-A27B parameters, excelling at real-time audio-visual interaction. Tech-Report [[Arxiv](https://arxiv.org/abs/2511.00279)], GitHub [[Code](https://github.com/meituan-longcat/LongCat-Flash-Omni)], Model [[Weights](https://huggingface.co/meituan-longcat/LongCat-Flash-Omni)].
 - 2025.05: "ALMTokenizer: A Low-bitrate and Semantic-rich Audio Codec Tokenizer for Audio Language Modeling
 "[[Arxiv](https://arxiv.org/abs/2504.10344)] accepted by ICML 2025.
 - 2025.04.25: 👋 We release the technical report of Kimi-Audio. [[Code]](https://github.com/MoonshotAI/Kimi-Audio)[[Model]](https://huggingface.co/moonshotai/Kimi-Audio-7B)[[Paper]](https://arxiv.org/pdf/2504.18425).
