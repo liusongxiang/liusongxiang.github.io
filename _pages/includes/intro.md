@@ -3,10 +3,3 @@ I did a several-month summer visiting in 2019 at [Speech Processing and Machine 
 
 My research interests encompass the extensive domain of Multi/Omni-Modal LLM and speech and language intelligence, which includes speech foundation models, large language models (LLMs), text-to-speech synthesis (TTS), voice conversion (VC), singing synthesis, cross-modal representation learning, audio adversarial attacks \& defense, among other related areas. 
 
-## 工作经历 Working Experiences
-腾讯AI Lab -> 米哈游 -> 月之暗面 (Kimi) -> 美团
-
-Tencent AI Lab -> miHoYo -> Moonshot AI (Kimi) -> Meituan
-
-
-<font color=Red >我们正在积极寻找实习生和全职研究人员，从事多模态融合及多模态实时交互算法研究，欢迎感兴趣的人联系我！songxiangliu.cuhk艾特gmail.com</font>
